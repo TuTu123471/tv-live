@@ -5,10 +5,10 @@ http://8.155.43.98:35455/huya/11342424
 http://1.14.124.206:35455/huya/11342424
 #EXTINF:-1 tvg-name="刘德华-备用2" group-title="明星专场",刘德华-备用2
 https://live.metshop.top/huya/11342424
-#EXTINF:-1 tvg-name="林正英-备用2" group-title="明星专场",林正英-备用2
-http://8.155.43.98:35455/huya/11342421
 #EXTINF:-1 tvg-name="林正英-备用1" group-title="明星专场",林正英-备用1
 http://1.14.124.206:35455/huya/11342421
+#EXTINF:-1 tvg-name="林正英-备用2" group-title="明星专场",林正英-备用2
+http://8.155.43.98:35455/huya/11342421
 #EXTINF:-1 tvg-name="林正英" group-title="明星专场",林正英
 http://107.150.60.122/live/lblzy.m3u8
 #EXTINF:-1 tvg-name="林正英-备用3" group-title="明星专场",林正英-备用3
@@ -19,10 +19,10 @@ https://mursor.ottiptv.cc/yy/1354658049
 https://mursor.ottiptv.cc/yy/1354889048
 #EXTINF:-1 tvg-name="成龙系列" group-title="明星专场",成龙系列
 https://mursor.ottiptv.cc/yy/1354888751
-#EXTINF:-1 tvg-name="周润发电影" group-title="明星专场",周润发电影
-http://198.204.228.26/live/lbzrf.m3u8
 #EXTINF:-1 tvg-name="周润发电影-备用" group-title="明星专场",周润发电影-备用
 http://107.150.60.122/live/lbzrf.m3u8
+#EXTINF:-1 tvg-name="周润发电影" group-title="明星专场",周润发电影
+http://198.204.228.26/live/lbzrf.m3u8
 #EXTINF:-1 tvg-name="赌神-发哥" group-title="明星专场",赌神-发哥
 https://mursor.ottiptv.cc/yy/1354889044
 #EXTINF:-1 tvg-name="张国荣与周润发的兄弟情" group-title="明星专场",张国荣与周润发的兄弟情
@@ -49,20 +49,20 @@ https://mursor.ottiptv.cc/yy/1354936242
 https://mursor.ottiptv.cc/yy/1354936131
 #EXTINF:-1 tvg-name="震撼！国内功夫大片" group-title="电影·动作武侠",震撼！国内功夫大片
 https://mursor.ottiptv.cc/yy/1382736902
-#EXTINF:-1 tvg-name="高分科幻动作片" group-title="电影·动作武侠",高分科幻动作片
-https://mursor.ottiptv.cc/yy/1382749948
 #EXTINF:-1 tvg-name="精彩动作电影享不停" group-title="电影·动作武侠",精彩动作电影享不停
 https://mursor.ottiptv.cc/yy/1382736809
+#EXTINF:-1 tvg-name="高分科幻动作片" group-title="电影·动作武侠",高分科幻动作片
+https://mursor.ottiptv.cc/yy/1382749948
 #EXTINF:-1 tvg-name="动作大片" group-title="电影·动作武侠",动作大片
 https://mursor.ottiptv.cc/yy/1354888739
 #EXTINF:-1 tvg-name="高分经典动作片" group-title="电影·动作武侠",高分经典动作片
 https://mursor.ottiptv.cc/yy/1382749944
 #EXTINF:-1 tvg-name="院线动作大片" group-title="电影·动作武侠",院线动作大片
 https://mursor.ottiptv.cc/yy/1382736900
-#EXTINF:-1 tvg-name="燃爆动作片" group-title="电影·动作武侠",燃爆动作片
-https://mursor.ottiptv.cc/yy/1382736801
 #EXTINF:-1 tvg-name="高分动作片——创可贴" group-title="电影·动作武侠",高分动作片——创可贴
 https://mursor.ottiptv.cc/yy/1382735568
+#EXTINF:-1 tvg-name="燃爆动作片" group-title="电影·动作武侠",燃爆动作片
+https://mursor.ottiptv.cc/yy/1382736801
 #EXTINF:-1 tvg-name="超燃警匪片" group-title="电影·动作武侠",超燃警匪片
 https://mursor.ottiptv.cc/yy/1382735576
 #EXTINF:-1 tvg-name="国产动作电影" group-title="电影·动作武侠",国产动作电影
@@ -177,10 +177,10 @@ https://mursor.ottiptv.cc/yy/1382745116
 https://mursor.ottiptv.cc/yy/1382745124
 #EXTINF:-1 tvg-name="最美的青春" group-title="电影·爱情家庭",最美的青春
 https://mursor.ottiptv.cc/yy/1382851530
-#EXTINF:-1 tvg-name="欢喜冤家的爱情-夏日乐悠悠" group-title="电影·爱情家庭",欢喜冤家的爱情-夏日乐悠悠
-https://mursor.ottiptv.cc/yy/1354936191
 #EXTINF:-1 tvg-name="国产家庭电视剧-如果岁月可回头" group-title="电影·爱情家庭",国产家庭电视剧-如果岁月可回头
 https://mursor.ottiptv.cc/yy/1382736883
+#EXTINF:-1 tvg-name="欢喜冤家的爱情-夏日乐悠悠" group-title="电影·爱情家庭",欢喜冤家的爱情-夏日乐悠悠
+https://mursor.ottiptv.cc/yy/1354936191
 #EXTINF:-1 tvg-name="孙红雷经典电视剧-二炮手" group-title="电视剧·国产剧",孙红雷经典电视剧-二炮手
 https://mursor.ottiptv.cc/yy/1354930964
 #EXTINF:-1 tvg-name="情满四合院-高分电视剧" group-title="电视剧·国产剧",情满四合院-高分电视剧
@@ -213,6 +213,12 @@ https://mursor.ottiptv.cc/yy/1382749902
 https://mursor.ottiptv.cc/yy/1382749889
 #EXTINF:-1 tvg-name="向日葵的爱恋-泰剧" group-title="电视剧·海外剧",向日葵的爱恋-泰剧
 https://mursor.ottiptv.cc/yy/1382749898
+#EXTINF:-1 tvg-name="杰克动漫" group-title="动漫",杰克动漫
+https://mursor.ottiptv.cc/huya/19757963
+#EXTINF:-1 tvg-name="经典日本动漫" group-title="动漫",经典日本动漫
+https://mursor.ottiptv.cc/huya/29982686
+#EXTINF:-1 tvg-name="银河奥特曼" group-title="动漫",银河奥特曼
+https://mursor.ottiptv.cc/huya/31433250
 #EXTINF:-1 tvg-name="熊出没之探险日记S1-国漫" group-title="动漫",熊出没之探险日记S1-国漫
 https://mursor.ottiptv.cc/yy/1354930977
 #EXTINF:-1 tvg-name="萌鸡小队S1-国漫" group-title="动漫",萌鸡小队S1-国漫
@@ -253,10 +259,10 @@ https://mursor.ottiptv.cc/yy/1354926542
 https://mursor.ottiptv.cc/yy/1354926655
 #EXTINF:-1 tvg-name="电影黑豹" group-title="电影·其他",电影黑豹
 https://mursor.ottiptv.cc/yy/1382736816
-#EXTINF:-1 tvg-name="一代经典电影，我很快乐" group-title="电影·其他",一代经典电影，我很快乐
-https://mursor.ottiptv.cc/yy/1354932420
 #EXTINF:-1 tvg-name="永远的经典系列" group-title="电影·其他",永远的经典系列
 https://mursor.ottiptv.cc/yy/1354930204
+#EXTINF:-1 tvg-name="一代经典电影，我很快乐" group-title="电影·其他",一代经典电影，我很快乐
+https://mursor.ottiptv.cc/yy/1354932420
 #EXTINF:-1 tvg-name="珍珠港-电影" group-title="电影·其他",珍珠港-电影
 https://mursor.ottiptv.cc/yy/1354936234
 #EXTINF:-1 tvg-name="远去的飞鹰-影视剧" group-title="电影·其他",远去的飞鹰-影视剧
@@ -277,10 +283,10 @@ https://mursor.ottiptv.cc/yy/1354932409
 https://mursor.ottiptv.cc/yy/1354931503
 #EXTINF:-1 tvg-name="猩球崛起-怪兽片合集" group-title="电影·其他",猩球崛起-怪兽片合集
 https://mursor.ottiptv.cc/yy/1354930181
-#EXTINF:-1 tvg-name="海王-院线大片" group-title="电影·其他",海王-院线大片
-https://mursor.ottiptv.cc/yy/1354936142
 #EXTINF:-1 tvg-name="经典反转之战" group-title="电影·其他",经典反转之战
 https://mursor.ottiptv.cc/yy/1382736861
+#EXTINF:-1 tvg-name="海王-院线大片" group-title="电影·其他",海王-院线大片
+https://mursor.ottiptv.cc/yy/1354936142
 #EXTINF:-1 tvg-name="末日系列-外国电影合集" group-title="电影·其他",末日系列-外国电影合集
 https://mursor.ottiptv.cc/yy/1354889019
 #EXTINF:-1 tvg-name="影视小艺" group-title="电影·其他",影视小艺
@@ -301,78 +307,78 @@ https://mursor.ottiptv.cc/yy/1354932359
 https://mursor.ottiptv.cc/yy/23512910
 #EXTINF:-1 tvg-name="古装剧" group-title="电视剧·其他",古装剧
 https://mursor.ottiptv.cc/yy/1356158015
+#EXTINF:-1 tvg-name="喵系女友" group-title="其他·片名",喵系女友
+https://mursor.ottiptv.cc/yy/1382828767
 #EXTINF:-1 tvg-name="宰相刘罗锅" group-title="其他·片名",宰相刘罗锅
 https://mursor.ottiptv.cc/yy/1382745191
-#EXTINF:-1 tvg-name="绝对让你笑翻天！" group-title="其他·片名",绝对让你笑翻天！
-https://mursor.ottiptv.cc/yy/1354936159
-#EXTINF:-1 tvg-name="一辆豪车配四个戏精" group-title="其他·片名",一辆豪车配四个戏精
-https://mursor.ottiptv.cc/yy/1354932429
 #EXTINF:-1 tvg-name="灌篮高手" group-title="其他·片名",灌篮高手
 https://mursor.ottiptv.cc/yy/1382735626
 #EXTINF:-1 tvg-name="举起手来-惊险抗日" group-title="其他·片名",举起手来-惊险抗日
 https://mursor.ottiptv.cc/yy/1382736877
-#EXTINF:-1 tvg-name="喵系女友" group-title="其他·片名",喵系女友
-https://mursor.ottiptv.cc/yy/1382828767
-#EXTINF:-1 tvg-name="毒液：致命守护者" group-title="其他·片名",毒液：致命守护者
-https://mursor.ottiptv.cc/yy/1382745095
+#EXTINF:-1 tvg-name="绝对让你笑翻天！" group-title="其他·片名",绝对让你笑翻天！
+https://mursor.ottiptv.cc/yy/1354936159
 #EXTINF:-1 tvg-name="从溺水到冠军，热血泳坛励志传奇" group-title="其他·片名",从溺水到冠军，热血泳坛励志传奇
 https://mursor.ottiptv.cc/yy/1382736723
-#EXTINF:-1 tvg-name="炊事班的故事III" group-title="其他·片名",炊事班的故事III
-https://mursor.ottiptv.cc/yy/1382736716
-#EXTINF:-1 tvg-name="渴望" group-title="其他·片名",渴望
-https://mursor.ottiptv.cc/yy/1354930963
-#EXTINF:-1 tvg-name="欢乐集结号-每天笑不停" group-title="其他·片名",欢乐集结号-每天笑不停
-https://mursor.ottiptv.cc/yy/1382741642
+#EXTINF:-1 tvg-name="毒液：致命守护者" group-title="其他·片名",毒液：致命守护者
+https://mursor.ottiptv.cc/yy/1382745095
+#EXTINF:-1 tvg-name="一辆豪车配四个戏精" group-title="其他·片名",一辆豪车配四个戏精
+https://mursor.ottiptv.cc/yy/1354932429
 #EXTINF:-1 tvg-name="华子系列" group-title="其他·片名",华子系列
 https://mursor.ottiptv.cc/yy/1354888726
+#EXTINF:-1 tvg-name="渴望" group-title="其他·片名",渴望
+https://mursor.ottiptv.cc/yy/1354930963
+#EXTINF:-1 tvg-name="炊事班的故事III" group-title="其他·片名",炊事班的故事III
+https://mursor.ottiptv.cc/yy/1382736716
 #EXTINF:-1 tvg-name="正阳门下" group-title="其他·片名",正阳门下
 https://mursor.ottiptv.cc/yy/1354931580
+#EXTINF:-1 tvg-name="欢乐集结号-每天笑不停" group-title="其他·片名",欢乐集结号-每天笑不停
+https://mursor.ottiptv.cc/yy/1382741642
 #EXTINF:-1 tvg-name="知否知否应是绿肥红瘦" group-title="其他·片名",知否知否应是绿肥红瘦
 https://mursor.ottiptv.cc/yy/1354936134
 #EXTINF:-1 tvg-name="神探狄仁杰1" group-title="其他·片名",神探狄仁杰1
 https://mursor.ottiptv.cc/yy/1354930934
+#EXTINF:-1 tvg-name="回家的诱惑" group-title="其他·片名",回家的诱惑
+https://mursor.ottiptv.cc/yy/1354658048
 #EXTINF:-1 tvg-name="欢乐集结号" group-title="其他·片名",欢乐集结号
 https://mursor.ottiptv.cc/yy/1382735550
-#EXTINF:-1 tvg-name="炊事班的故事" group-title="其他·片名",炊事班的故事
-https://mursor.ottiptv.cc/yy/1382749901
-#EXTINF:-1 tvg-name="亲爱的热爱的" group-title="其他·片名",亲爱的热爱的
-https://mursor.ottiptv.cc/yy/1354932433
 #EXTINF:-1 tvg-name="一段关于救赎与坚守的西部传奇" group-title="其他·片名",一段关于救赎与坚守的西部传奇
 https://mursor.ottiptv.cc/yy/1382741640
+#EXTINF:-1 tvg-name="炊事班的故事" group-title="其他·片名",炊事班的故事
+https://mursor.ottiptv.cc/yy/1382749901
+#EXTINF:-1 tvg-name="以家人之名" group-title="其他·片名",以家人之名
+https://mursor.ottiptv.cc/yy/1382736908
+#EXTINF:-1 tvg-name="亲爱的热爱的" group-title="其他·片名",亲爱的热爱的
+https://mursor.ottiptv.cc/yy/1354932433
 #EXTINF:-1 tvg-name="小敏" group-title="其他·片名",小敏
 https://mursor.ottiptv.cc/yy/1382828771
 #EXTINF:-1 tvg-name="二号交通站" group-title="其他·片名",二号交通站
 https://mursor.ottiptv.cc/yy/1382735582
 #EXTINF:-1 tvg-name="欢乐集结号" group-title="其他·片名",欢乐集结号
 https://mursor.ottiptv.cc/yy/1354931582
-#EXTINF:-1 tvg-name="回家的诱惑" group-title="其他·片名",回家的诱惑
-https://mursor.ottiptv.cc/yy/1354658048
-#EXTINF:-1 tvg-name="以家人之名" group-title="其他·片名",以家人之名
-https://mursor.ottiptv.cc/yy/1382736908
 #EXTINF:-1 tvg-name="谍影重重五季全" group-title="其他·片名",谍影重重五季全
 https://mursor.ottiptv.cc/yy/1382735570
-#EXTINF:-1 tvg-name="监狱风云2" group-title="其他·片名",监狱风云2
-https://mursor.ottiptv.cc/yy/1354933540
 #EXTINF:-1 tvg-name="来自星星的你" group-title="其他·片名",来自星星的你
 https://mursor.ottiptv.cc/yy/1354930976
+#EXTINF:-1 tvg-name="监狱风云2" group-title="其他·片名",监狱风云2
+https://mursor.ottiptv.cc/yy/1354933540
 #EXTINF:-1 tvg-name="啊咧" group-title="其他·片名",啊咧
 https://mursor.ottiptv.cc/yy/1459243913
-#EXTINF:-1 tvg-name="郝蕾演绎-情满四合院" group-title="其他·片名",郝蕾演绎-情满四合院
-https://mursor.ottiptv.cc/yy/1382745089
-#EXTINF:-1 tvg-name="伪装者" group-title="其他·片名",伪装者
-https://mursor.ottiptv.cc/yy/1354936244
 #EXTINF:-1 tvg-name="公主嫁到" group-title="其他·片名",公主嫁到
 https://mursor.ottiptv.cc/yy/1382736915
-#EXTINF:-1 tvg-name="情满四合院" group-title="其他·片名",情满四合院
-https://mursor.ottiptv.cc/yy/1382736848
+#EXTINF:-1 tvg-name="伪装者" group-title="其他·片名",伪装者
+https://mursor.ottiptv.cc/yy/1354936244
+#EXTINF:-1 tvg-name="少年包青天第三部" group-title="其他·片名",少年包青天第三部
+https://mursor.ottiptv.cc/yy/1382736814
+#EXTINF:-1 tvg-name="郝蕾演绎-情满四合院" group-title="其他·片名",郝蕾演绎-情满四合院
+https://mursor.ottiptv.cc/yy/1382745089
 #EXTINF:-1 tvg-name="陈情令" group-title="其他·片名",陈情令
 https://mursor.ottiptv.cc/yy/1382745121
+#EXTINF:-1 tvg-name="情满四合院" group-title="其他·片名",情满四合院
+https://mursor.ottiptv.cc/yy/1382736848
 #EXTINF:-1 tvg-name="你的回忆有我吗" group-title="其他·片名",你的回忆有我吗
 https://mursor.ottiptv.cc/yy/1354889024
 #EXTINF:-1 tvg-name="深海利剑" group-title="其他·片名",深海利剑
 https://mursor.ottiptv.cc/yy/1382736906
-#EXTINF:-1 tvg-name="少年包青天第三部" group-title="其他·片名",少年包青天第三部
-https://mursor.ottiptv.cc/yy/1382736814
 #EXTINF:-1 tvg-name="变形金刚" group-title="其他·片名",变形金刚
 https://mursor.ottiptv.cc/yy/1382736803
 #EXTINF:-1 tvg-name="小朋友可爱到家了" group-title="其他·片名",小朋友可爱到家了
@@ -381,44 +387,44 @@ https://mursor.ottiptv.cc/yy/1354930887
 https://mursor.ottiptv.cc/yy/1354930233
 #EXTINF:-1 tvg-name="欢乐集结号3" group-title="其他·片名",欢乐集结号3
 https://mursor.ottiptv.cc/yy/1382736822
-#EXTINF:-1 tvg-name="宫锁珠帘" group-title="其他·片名",宫锁珠帘
-https://mursor.ottiptv.cc/yy/1354926666
-#EXTINF:-1 tvg-name="复仇者联盟全季" group-title="其他·片名",复仇者联盟全季
-https://mursor.ottiptv.cc/yy/1354936167
-#EXTINF:-1 tvg-name="宝莲灯前传" group-title="其他·片名",宝莲灯前传
-https://mursor.ottiptv.cc/yy/1354931631
 #EXTINF:-1 tvg-name="无敌县令" group-title="其他·片名",无敌县令
 https://mursor.ottiptv.cc/yy/1354932390
-#EXTINF:-1 tvg-name="笑傲帮" group-title="其他·片名",笑傲帮
-https://mursor.ottiptv.cc/yy/1382735555
+#EXTINF:-1 tvg-name="宝莲灯前传" group-title="其他·片名",宝莲灯前传
+https://mursor.ottiptv.cc/yy/1354931631
 #EXTINF:-1 tvg-name="甜甜的恋爱 这狗粮我吃了" group-title="其他·片名",甜甜的恋爱 这狗粮我吃了
 https://mursor.ottiptv.cc/yy/1354932438
+#EXTINF:-1 tvg-name="复仇者联盟全季" group-title="其他·片名",复仇者联盟全季
+https://mursor.ottiptv.cc/yy/1354936167
+#EXTINF:-1 tvg-name="宫锁珠帘" group-title="其他·片名",宫锁珠帘
+https://mursor.ottiptv.cc/yy/1354926666
+#EXTINF:-1 tvg-name="笑傲帮" group-title="其他·片名",笑傲帮
+https://mursor.ottiptv.cc/yy/1382735555
 #EXTINF:-1 tvg-name="我的前半生" group-title="其他·片名",我的前半生
 https://mursor.ottiptv.cc/yy/1382735564
 #EXTINF:-1 tvg-name="真心想让你幸福" group-title="其他·片名",真心想让你幸福
 https://mursor.ottiptv.cc/yy/1382736876
-#EXTINF:-1 tvg-name="保护我家蓉儿" group-title="其他·片名",保护我家蓉儿
-https://mursor.ottiptv.cc/yy/1370293254
 #EXTINF:-1 tvg-name="回家的诱惑" group-title="其他·片名",回家的诱惑
 https://mursor.ottiptv.cc/yy/1354658043
-#EXTINF:-1 tvg-name="密子君" group-title="其他·片名",密子君
-https://mursor.ottiptv.cc/yy/1382736717
+#EXTINF:-1 tvg-name="保护我家蓉儿" group-title="其他·片名",保护我家蓉儿
+https://mursor.ottiptv.cc/yy/1370293254
 #EXTINF:-1 tvg-name="单挑荒野第一季" group-title="其他·片名",单挑荒野第一季
 https://mursor.ottiptv.cc/yy/1354933535
+#EXTINF:-1 tvg-name="密子君" group-title="其他·片名",密子君
+https://mursor.ottiptv.cc/yy/1382736717
 #EXTINF:-1 tvg-name="哈利波特全集" group-title="其他·片名",哈利波特全集
 https://mursor.ottiptv.cc/yy/1382745105
-#EXTINF:-1 tvg-name="舌尖上的中国第一季" group-title="其他·片名",舌尖上的中国第一季
-https://mursor.ottiptv.cc/yy/1354930952
 #EXTINF:-1 tvg-name="舌尖上的中国第2季" group-title="其他·片名",舌尖上的中国第2季
 https://mursor.ottiptv.cc/yy/1354930943
-#EXTINF:-1 tvg-name="强悍“杀猪婆”的励志人生" group-title="其他·片名",强悍“杀猪婆”的励志人生
-https://mursor.ottiptv.cc/yy/1354658062
-#EXTINF:-1 tvg-name="洪大哥系列" group-title="其他·片名",洪大哥系列
-https://mursor.ottiptv.cc/yy/1354888743
-#EXTINF:-1 tvg-name="大铸剑师传奇" group-title="其他·片名",大铸剑师传奇
-https://mursor.ottiptv.cc/yy/1354932371
+#EXTINF:-1 tvg-name="舌尖上的中国第一季" group-title="其他·片名",舌尖上的中国第一季
+https://mursor.ottiptv.cc/yy/1354930952
 #EXTINF:-1 tvg-name="飓风营救" group-title="其他·片名",飓风营救
 https://mursor.ottiptv.cc/yy/1382735547
+#EXTINF:-1 tvg-name="强悍“杀猪婆”的励志人生" group-title="其他·片名",强悍“杀猪婆”的励志人生
+https://mursor.ottiptv.cc/yy/1354658062
+#EXTINF:-1 tvg-name="大铸剑师传奇" group-title="其他·片名",大铸剑师传奇
+https://mursor.ottiptv.cc/yy/1354932371
+#EXTINF:-1 tvg-name="洪大哥系列" group-title="其他·片名",洪大哥系列
+https://mursor.ottiptv.cc/yy/1354888743
 #EXTINF:-1 tvg-name="重生之超级赛亚人" group-title="其他·片名",重生之超级赛亚人
 https://mursor.ottiptv.cc/yy/1354936124
 #EXTINF:-1 tvg-name="刘英岁月" group-title="其他·片名",刘英岁月
@@ -431,110 +437,110 @@ https://mursor.ottiptv.cc/yy/1382745091
 https://mursor.ottiptv.cc/yy/1354930919
 #EXTINF:-1 tvg-name="妖神记之黑狱篇" group-title="其他·片名",妖神记之黑狱篇
 https://mursor.ottiptv.cc/yy/1382745173
-#EXTINF:-1 tvg-name="聊天必备技能" group-title="其他·片名",聊天必备技能
-https://mursor.ottiptv.cc/yy/1354936178
 #EXTINF:-1 tvg-name="angel" group-title="其他·片名",angel
 https://mursor.ottiptv.cc/yy/1382828770
-#EXTINF:-1 tvg-name="速度与激情全集" group-title="其他·片名",速度与激情全集
-https://mursor.ottiptv.cc/yy/1382749892
-#EXTINF:-1 tvg-name="大唐双龙传" group-title="其他·片名",大唐双龙传
-https://mursor.ottiptv.cc/yy/1354930979
-#EXTINF:-1 tvg-name="一分钟学道菜" group-title="其他·片名",一分钟学道菜
-https://mursor.ottiptv.cc/yy/1382736901
+#EXTINF:-1 tvg-name="聊天必备技能" group-title="其他·片名",聊天必备技能
+https://mursor.ottiptv.cc/yy/1354936178
 #EXTINF:-1 tvg-name="无双花木兰" group-title="其他·片名",无双花木兰
 https://mursor.ottiptv.cc/yy/1382749917
+#EXTINF:-1 tvg-name="大唐双龙传" group-title="其他·片名",大唐双龙传
+https://mursor.ottiptv.cc/yy/1354930979
+#EXTINF:-1 tvg-name="速度与激情全集" group-title="其他·片名",速度与激情全集
+https://mursor.ottiptv.cc/yy/1382749892
 #EXTINF:-1 tvg-name="拳拳到肉，搏击燃情" group-title="其他·片名",拳拳到肉，搏击燃情
 https://mursor.ottiptv.cc/yy/1382736870
+#EXTINF:-1 tvg-name="一分钟学道菜" group-title="其他·片名",一分钟学道菜
+https://mursor.ottiptv.cc/yy/1382736901
+#EXTINF:-1 tvg-name="我的父亲我的兵" group-title="其他·片名",我的父亲我的兵
+https://mursor.ottiptv.cc/yy/1353413714
 #EXTINF:-1 tvg-name="怪兽出没-大脚怪2" group-title="其他·片名",怪兽出没-大脚怪2
 https://mursor.ottiptv.cc/yy/1382736859
 #EXTINF:-1 tvg-name="欢乐集结号4" group-title="其他·片名",欢乐集结号4
 https://mursor.ottiptv.cc/yy/1382736889
 #EXTINF:-1 tvg-name="带你领略四季的变化" group-title="其他·片名",带你领略四季的变化
 https://mursor.ottiptv.cc/yy/1354930816
-#EXTINF:-1 tvg-name="我的父亲我的兵" group-title="其他·片名",我的父亲我的兵
-https://mursor.ottiptv.cc/yy/1353413714
 #EXTINF:-1 tvg-name="霸星降临" group-title="其他·片名",霸星降临
 https://mursor.ottiptv.cc/yy/1354936168
 #EXTINF:-1 tvg-name="河山" group-title="其他·片名",河山
 https://mursor.ottiptv.cc/yy/1382749952
 #EXTINF:-1 tvg-name="牧野诡事之赤丹珠" group-title="其他·片名",牧野诡事之赤丹珠
 https://mursor.ottiptv.cc/yy/1382736863
-#EXTINF:-1 tvg-name="仙剑奇侠传-神仙姐姐驾到" group-title="其他·片名",仙剑奇侠传-神仙姐姐驾到
-https://mursor.ottiptv.cc/yy/1382749903
+#EXTINF:-1 tvg-name="大台风" group-title="其他·片名",大台风
+https://mursor.ottiptv.cc/yy/1382735583
 #EXTINF:-1 tvg-name="动物世界-领略原始野性" group-title="其他·片名",动物世界-领略原始野性
 https://mursor.ottiptv.cc/yy/1382743138
+#EXTINF:-1 tvg-name="仙剑奇侠传-神仙姐姐驾到" group-title="其他·片名",仙剑奇侠传-神仙姐姐驾到
+https://mursor.ottiptv.cc/yy/1382749903
 #EXTINF:-1 tvg-name="绝地生死营救" group-title="其他·片名",绝地生死营救
 https://mursor.ottiptv.cc/yy/1354936214
 #EXTINF:-1 tvg-name="法证先锋" group-title="其他·片名",法证先锋
 https://mursor.ottiptv.cc/yy/1354930939
-#EXTINF:-1 tvg-name="大台风" group-title="其他·片名",大台风
-https://mursor.ottiptv.cc/yy/1382735583
 #EXTINF:-1 tvg-name="新世界" group-title="其他·片名",新世界
 https://mursor.ottiptv.cc/yy/1382736850
-#EXTINF:-1 tvg-name="沉浸式体验深海死斗" group-title="其他·片名",沉浸式体验深海死斗
-https://mursor.ottiptv.cc/yy/1354936169
-#EXTINF:-1 tvg-name="欢乐集结号58-70" group-title="其他·片名",欢乐集结号58-70
-https://mursor.ottiptv.cc/yy/1382745119
 #EXTINF:-1 tvg-name="清官难当？看芝麻官如何破局" group-title="其他·片名",清官难当？看芝麻官如何破局
 https://mursor.ottiptv.cc/yy/1382749909
+#EXTINF:-1 tvg-name="欢乐集结号58-70" group-title="其他·片名",欢乐集结号58-70
+https://mursor.ottiptv.cc/yy/1382745119
+#EXTINF:-1 tvg-name="沉浸式体验深海死斗" group-title="其他·片名",沉浸式体验深海死斗
+https://mursor.ottiptv.cc/yy/1354936169
+#EXTINF:-1 tvg-name="横行不霸道" group-title="其他·片名",横行不霸道
+https://mursor.ottiptv.cc/yy/1354930189
 #EXTINF:-1 tvg-name="爱在璀璨时" group-title="其他·片名",爱在璀璨时
 https://mursor.ottiptv.cc/yy/1354926671
 #EXTINF:-1 tvg-name="叛逆者" group-title="其他·片名",叛逆者
 https://mursor.ottiptv.cc/yy/1382736868
-#EXTINF:-1 tvg-name="忠诚无畏，战犬出击" group-title="其他·片名",忠诚无畏，战犬出击
-https://mursor.ottiptv.cc/yy/1354930225
 #EXTINF:-1 tvg-name="智取威虎山" group-title="其他·片名",智取威虎山
 https://mursor.ottiptv.cc/yy/1382736843
-#EXTINF:-1 tvg-name="横行不霸道" group-title="其他·片名",横行不霸道
-https://mursor.ottiptv.cc/yy/1354930189
-#EXTINF:-1 tvg-name="紧急营救" group-title="其他·片名",紧急营救
-https://mursor.ottiptv.cc/yy/1354926676
 #EXTINF:-1 tvg-name="笑傲江湖 第1季" group-title="其他·片名",笑傲江湖 第1季
 https://mursor.ottiptv.cc/yy/1382749896
-#EXTINF:-1 tvg-name="新白娘子传奇-女神赵雅芝" group-title="其他·片名",新白娘子传奇-女神赵雅芝
-https://mursor.ottiptv.cc/yy/1354930969
-#EXTINF:-1 tvg-name="欢乐一起看" group-title="其他·片名",欢乐一起看
-https://mursor.ottiptv.cc/yy/1354930926
-#EXTINF:-1 tvg-name="热血少年上线，《长歌行》开播" group-title="其他·片名",热血少年上线，《长歌行》开播
-https://mursor.ottiptv.cc/yy/1382736802
+#EXTINF:-1 tvg-name="忠诚无畏，战犬出击" group-title="其他·片名",忠诚无畏，战犬出击
+https://mursor.ottiptv.cc/yy/1354930225
 #EXTINF:-1 tvg-name="本山快乐营2" group-title="其他·片名",本山快乐营2
 https://mursor.ottiptv.cc/yy/1382736718
-#EXTINF:-1 tvg-name="0" group-title="其他·片名",0
-https://mursor.ottiptv.cc/yy/1382851580
+#EXTINF:-1 tvg-name="紧急营救" group-title="其他·片名",紧急营救
+https://mursor.ottiptv.cc/yy/1354926676
+#EXTINF:-1 tvg-name="欢乐一起看" group-title="其他·片名",欢乐一起看
+https://mursor.ottiptv.cc/yy/1354930926
+#EXTINF:-1 tvg-name="新白娘子传奇-女神赵雅芝" group-title="其他·片名",新白娘子传奇-女神赵雅芝
+https://mursor.ottiptv.cc/yy/1354930969
+#EXTINF:-1 tvg-name="热血少年上线，《长歌行》开播" group-title="其他·片名",热血少年上线，《长歌行》开播
+https://mursor.ottiptv.cc/yy/1382736802
 #EXTINF:-1 tvg-name="少年包青天美黑之旅" group-title="其他·片名",少年包青天美黑之旅
 https://mursor.ottiptv.cc/yy/1354936141
-#EXTINF:-1 tvg-name="深海巨兽惊现，渔民与神秘生物的生存博弈" group-title="其他·片名",深海巨兽惊现，渔民与神秘生物的生存博弈
-https://mursor.ottiptv.cc/yy/1382745111
+#EXTINF:-1 tvg-name="0" group-title="其他·片名",0
+https://mursor.ottiptv.cc/yy/1382851580
 #EXTINF:-1 tvg-name="英叔之古墓狂魔" group-title="其他·片名",英叔之古墓狂魔
 https://mursor.ottiptv.cc/yy/1354930894
+#EXTINF:-1 tvg-name="深海巨兽惊现，渔民与神秘生物的生存博弈" group-title="其他·片名",深海巨兽惊现，渔民与神秘生物的生存博弈
+https://mursor.ottiptv.cc/yy/1382745111
 #EXTINF:-1 tvg-name="搬山道人之落天荒" group-title="其他·片名",搬山道人之落天荒
 https://mursor.ottiptv.cc/yy/1382736916
 #EXTINF:-1 tvg-name="田园生活" group-title="其他·片名",田园生活
 https://mursor.ottiptv.cc/yy/1382736898
+#EXTINF:-1 tvg-name="暗夜良人：暗夜出击护良善" group-title="其他·片名",暗夜良人：暗夜出击护良善
+https://mursor.ottiptv.cc/yy/1354930954
 #EXTINF:-1 tvg-name="哑巴竟然会说话" group-title="其他·片名",哑巴竟然会说话
 https://mursor.ottiptv.cc/yy/1354932427
 #EXTINF:-1 tvg-name="狄仁杰智破红瞳谜案" group-title="其他·片名",狄仁杰智破红瞳谜案
 https://mursor.ottiptv.cc/yy/1354936116
-#EXTINF:-1 tvg-name="暗夜良人：暗夜出击护良善" group-title="其他·片名",暗夜良人：暗夜出击护良善
-https://mursor.ottiptv.cc/yy/1354930954
-#EXTINF:-1 tvg-name="马永贞" group-title="其他·片名",马永贞
-https://mursor.ottiptv.cc/yy/1382736866
-#EXTINF:-1 tvg-name="百家讲坛――之明太祖朱元璋" group-title="其他·片名",百家讲坛――之明太祖朱元璋
-https://mursor.ottiptv.cc/yy/1354936149
 #EXTINF:-1 tvg-name="加勒比海盗系列" group-title="其他·片名",加勒比海盗系列
 https://mursor.ottiptv.cc/yy/1382749914
 #EXTINF:-1 tvg-name="欢乐颂" group-title="其他·片名",欢乐颂
 https://mursor.ottiptv.cc/yy/1382851577
+#EXTINF:-1 tvg-name="马永贞" group-title="其他·片名",马永贞
+https://mursor.ottiptv.cc/yy/1382736866
+#EXTINF:-1 tvg-name="百家讲坛――之明太祖朱元璋" group-title="其他·片名",百家讲坛――之明太祖朱元璋
+https://mursor.ottiptv.cc/yy/1354936149
 #EXTINF:-1 tvg-name="俺娘田小草" group-title="其他·片名",俺娘田小草
 https://mursor.ottiptv.cc/yy/1382741638
 #EXTINF:-1 tvg-name="熊出没之探险日记-森林探险记" group-title="其他·片名",熊出没之探险日记-森林探险记
 https://mursor.ottiptv.cc/yy/1382745122
 #EXTINF:-1 tvg-name="甜宠KIKI" group-title="其他·片名",甜宠KIKI
 https://mursor.ottiptv.cc/yy/1382744423
-#EXTINF:-1 tvg-name="霹雳火：速度与激情" group-title="其他·片名",霹雳火：速度与激情
-https://mursor.ottiptv.cc/yy/1382736895
 #EXTINF:-1 tvg-name="我爱我家" group-title="其他·片名",我爱我家
 https://mursor.ottiptv.cc/yy/1382735557
+#EXTINF:-1 tvg-name="霹雳火：速度与激情" group-title="其他·片名",霹雳火：速度与激情
+https://mursor.ottiptv.cc/yy/1382736895
 #EXTINF:-1 tvg-name="嘻嘻熙熙" group-title="其他·片名",嘻嘻熙熙
 https://mursor.ottiptv.cc/yy/1382735585
 #EXTINF:-1 tvg-name="周星星系列" group-title="其他·片名",周星星系列
@@ -547,228 +553,228 @@ https://mursor.ottiptv.cc/yy/1354933529
 https://mursor.ottiptv.cc/yy/1354926637
 #EXTINF:-1 tvg-name="呆萌飞行员" group-title="其他·片名",呆萌飞行员
 https://mursor.ottiptv.cc/yy/1354930968
-#EXTINF:-1 tvg-name="毒力觉醒的异能逆袭狂潮" group-title="其他·片名",毒力觉醒的异能逆袭狂潮
-https://mursor.ottiptv.cc/yy/1354926735
 #EXTINF:-1 tvg-name="穿越时空的爱恋" group-title="其他·片名",穿越时空的爱恋
 https://mursor.ottiptv.cc/yy/1382735567
-#EXTINF:-1 tvg-name="轻松+愉快" group-title="其他·片名",轻松+愉快
-https://mursor.ottiptv.cc/yy/1382736874
-#EXTINF:-1 tvg-name="农家小菜" group-title="其他·片名",农家小菜
-https://mursor.ottiptv.cc/yy/1382736894
+#EXTINF:-1 tvg-name="毒力觉醒的异能逆袭狂潮" group-title="其他·片名",毒力觉醒的异能逆袭狂潮
+https://mursor.ottiptv.cc/yy/1354926735
 #EXTINF:-1 tvg-name="大明王朝" group-title="其他·片名",大明王朝
 https://mursor.ottiptv.cc/yy/1382736879
-#EXTINF:-1 tvg-name="烈焰战车破黑暗" group-title="其他·片名",烈焰战车破黑暗
-https://mursor.ottiptv.cc/yy/1382735559
-#EXTINF:-1 tvg-name="缺宅男女" group-title="其他·片名",缺宅男女
-https://mursor.ottiptv.cc/yy/1354930937
 #EXTINF:-1 tvg-name="学生兵" group-title="其他·片名",学生兵
 https://mursor.ottiptv.cc/yy/1354658003
-#EXTINF:-1 tvg-name="本山快乐营1" group-title="其他·片名",本山快乐营1
-https://mursor.ottiptv.cc/yy/1354936209
+#EXTINF:-1 tvg-name="农家小菜" group-title="其他·片名",农家小菜
+https://mursor.ottiptv.cc/yy/1382736894
+#EXTINF:-1 tvg-name="轻松+愉快" group-title="其他·片名",轻松+愉快
+https://mursor.ottiptv.cc/yy/1382736874
+#EXTINF:-1 tvg-name="缺宅男女" group-title="其他·片名",缺宅男女
+https://mursor.ottiptv.cc/yy/1354930937
+#EXTINF:-1 tvg-name="烈焰战车破黑暗" group-title="其他·片名",烈焰战车破黑暗
+https://mursor.ottiptv.cc/yy/1382735559
 #EXTINF:-1 tvg-name="最佳时机：命运转角的最佳抉择与奔赴" group-title="其他·片名",最佳时机：命运转角的最佳抉择与奔赴
 https://mursor.ottiptv.cc/yy/1354936207
-#EXTINF:-1 tvg-name="有趣的小姐姐" group-title="其他·片名",有趣的小姐姐
-https://mursor.ottiptv.cc/yy/1382735543
 #EXTINF:-1 tvg-name="不可能的任务-碟中谍4" group-title="其他·片名",不可能的任务-碟中谍4
 https://mursor.ottiptv.cc/yy/1354930967
+#EXTINF:-1 tvg-name="少年四大名捕" group-title="其他·片名",少年四大名捕
+https://mursor.ottiptv.cc/yy/1354936203
+#EXTINF:-1 tvg-name="有趣的小姐姐" group-title="其他·片名",有趣的小姐姐
+https://mursor.ottiptv.cc/yy/1382735543
+#EXTINF:-1 tvg-name="本山快乐营1" group-title="其他·片名",本山快乐营1
+https://mursor.ottiptv.cc/yy/1354936209
 #EXTINF:-1 tvg-name="彪哥逆袭笑翻天" group-title="其他·片名",彪哥逆袭笑翻天
 https://mursor.ottiptv.cc/yy/1354936170
 #EXTINF:-1 tvg-name="新独臂刀诠释老派暴力美学" group-title="其他·片名",新独臂刀诠释老派暴力美学
 https://mursor.ottiptv.cc/yy/1353413683
-#EXTINF:-1 tvg-name="少年四大名捕" group-title="其他·片名",少年四大名捕
-https://mursor.ottiptv.cc/yy/1354936203
-#EXTINF:-1 tvg-name="钟馗传说" group-title="其他·片名",钟馗传说
-https://mursor.ottiptv.cc/yy/1382736839
 #EXTINF:-1 tvg-name="大汉贤后卫子夫" group-title="其他·片名",大汉贤后卫子夫
 https://mursor.ottiptv.cc/yy/1382735569
+#EXTINF:-1 tvg-name="钟馗传说" group-title="其他·片名",钟馗传说
+https://mursor.ottiptv.cc/yy/1382736839
 #EXTINF:-1 tvg-name="一颗珍珠" group-title="其他·片名",一颗珍珠
 https://mursor.ottiptv.cc/yy/1382828766
 #EXTINF:-1 tvg-name="能耐大了第1季" group-title="其他·片名",能耐大了第1季
 https://mursor.ottiptv.cc/yy/1354930195
-#EXTINF:-1 tvg-name="非典型恋爱" group-title="其他·片名",非典型恋爱
-https://mursor.ottiptv.cc/yy/1354936157
-#EXTINF:-1 tvg-name="妖神记" group-title="其他·片名",妖神记
-https://mursor.ottiptv.cc/yy/1382745171
 #EXTINF:-1 tvg-name="PK地球神" group-title="其他·片名",PK地球神
 https://mursor.ottiptv.cc/yy/1382736872
+#EXTINF:-1 tvg-name="非典型恋爱" group-title="其他·片名",非典型恋爱
+https://mursor.ottiptv.cc/yy/1354936157
 #EXTINF:-1 tvg-name="机械战警1-3" group-title="其他·片名",机械战警1-3
 https://mursor.ottiptv.cc/yy/1382736854
+#EXTINF:-1 tvg-name="妖神记" group-title="其他·片名",妖神记
+https://mursor.ottiptv.cc/yy/1382745171
 #EXTINF:-1 tvg-name="妖神记-全集" group-title="其他·片名",妖神记-全集
 https://mursor.ottiptv.cc/yy/1382735551
 #EXTINF:-1 tvg-name="原始求生记 第1季" group-title="其他·片名",原始求生记 第1季
 https://mursor.ottiptv.cc/yy/1382749912
 #EXTINF:-1 tvg-name="施公奇案2-欧阳震华" group-title="其他·片名",施公奇案2-欧阳震华
 https://mursor.ottiptv.cc/yy/1382736824
-#EXTINF:-1 tvg-name="甜心少女冲冲冲" group-title="其他·片名",甜心少女冲冲冲
-https://mursor.ottiptv.cc/yy/1382736832
+#EXTINF:-1 tvg-name="苦乐村官" group-title="其他·片名",苦乐村官
+https://mursor.ottiptv.cc/yy/1382736864
 #EXTINF:-1 tvg-name="笑傲江湖 第2季" group-title="其他·片名",笑傲江湖 第2季
 https://mursor.ottiptv.cc/yy/1382736914
 #EXTINF:-1 tvg-name="外星人入侵" group-title="其他·片名",外星人入侵
 https://mursor.ottiptv.cc/yy/1382745181
-#EXTINF:-1 tvg-name="苦乐村官" group-title="其他·片名",苦乐村官
-https://mursor.ottiptv.cc/yy/1382736864
-#EXTINF:-1 tvg-name="辣警狂花" group-title="其他·片名",辣警狂花
-https://mursor.ottiptv.cc/yy/1382736892
+#EXTINF:-1 tvg-name="甜心少女冲冲冲" group-title="其他·片名",甜心少女冲冲冲
+https://mursor.ottiptv.cc/yy/1382736832
 #EXTINF:-1 tvg-name="决战中的较量才是神仙打架" group-title="其他·片名",决战中的较量才是神仙打架
 https://mursor.ottiptv.cc/yy/1382828769
-#EXTINF:-1 tvg-name="哮天犬闹龙宫" group-title="其他·片名",哮天犬闹龙宫
-https://mursor.ottiptv.cc/yy/1382736913
 #EXTINF:-1 tvg-name="就是要疯狂" group-title="其他·片名",就是要疯狂
 https://mursor.ottiptv.cc/yy/1354936145
 #EXTINF:-1 tvg-name="这才是真巨星养成记" group-title="其他·片名",这才是真巨星养成记
 https://mursor.ottiptv.cc/yy/1382735561
+#EXTINF:-1 tvg-name="辣警狂花" group-title="其他·片名",辣警狂花
+https://mursor.ottiptv.cc/yy/1382736892
+#EXTINF:-1 tvg-name="哮天犬闹龙宫" group-title="其他·片名",哮天犬闹龙宫
+https://mursor.ottiptv.cc/yy/1382736913
 #EXTINF:-1 tvg-name="神偷次世代" group-title="其他·片名",神偷次世代
 https://mursor.ottiptv.cc/yy/1382749907
 #EXTINF:-1 tvg-name="淮水情深深" group-title="其他·片名",淮水情深深
 https://mursor.ottiptv.cc/yy/1382749888
 #EXTINF:-1 tvg-name="蜀山伏魔剑" group-title="其他·片名",蜀山伏魔剑
 https://mursor.ottiptv.cc/yy/1354932365
-#EXTINF:-1 tvg-name="热血狂战燃爆全场" group-title="其他·片名",热血狂战燃爆全场
-https://mursor.ottiptv.cc/yy/1382749918
-#EXTINF:-1 tvg-name="狂虐悍匪姐姐太飒了" group-title="其他·片名",狂虐悍匪姐姐太飒了
-https://mursor.ottiptv.cc/yy/1382828768
-#EXTINF:-1 tvg-name="猎魔道人在线施法" group-title="其他·片名",猎魔道人在线施法
-https://mursor.ottiptv.cc/yy/1382735566
 #EXTINF:-1 tvg-name="戏法师" group-title="其他·片名",戏法师
 https://mursor.ottiptv.cc/yy/1354888736
+#EXTINF:-1 tvg-name="热血狂战燃爆全场" group-title="其他·片名",热血狂战燃爆全场
+https://mursor.ottiptv.cc/yy/1382749918
+#EXTINF:-1 tvg-name="猎魔道人在线施法" group-title="其他·片名",猎魔道人在线施法
+https://mursor.ottiptv.cc/yy/1382735566
+#EXTINF:-1 tvg-name="狂虐悍匪姐姐太飒了" group-title="其他·片名",狂虐悍匪姐姐太飒了
+https://mursor.ottiptv.cc/yy/1382828768
+#EXTINF:-1 tvg-name="百家讲坛-红楼梦篇" group-title="其他·片名",百家讲坛-红楼梦篇
+https://mursor.ottiptv.cc/yy/1382741639
+#EXTINF:-1 tvg-name="生死极速救援" group-title="其他·片名",生死极速救援
+https://mursor.ottiptv.cc/yy/1382736719
 #EXTINF:-1 tvg-name="迈阿密行动街头狂飙" group-title="其他·片名",迈阿密行动街头狂飙
 https://mursor.ottiptv.cc/yy/1354936228
 #EXTINF:-1 tvg-name="兵王绝境狙杀" group-title="其他·片名",兵王绝境狙杀
 https://mursor.ottiptv.cc/yy/1382736833
-#EXTINF:-1 tvg-name="百家讲坛-红楼梦篇" group-title="其他·片名",百家讲坛-红楼梦篇
-https://mursor.ottiptv.cc/yy/1382741639
 #EXTINF:-1 tvg-name="唐门双雄战神犼" group-title="其他·片名",唐门双雄战神犼
 https://mursor.ottiptv.cc/yy/1382736897
-#EXTINF:-1 tvg-name="生死极速救援" group-title="其他·片名",生死极速救援
-https://mursor.ottiptv.cc/yy/1382736719
 #EXTINF:-1 tvg-name="奇葩侦探高能探案" group-title="其他·片名",奇葩侦探高能探案
 https://mursor.ottiptv.cc/yy/1354658051
 #EXTINF:-1 tvg-name="中华英雄之风云再起" group-title="其他·片名",中华英雄之风云再起
 https://mursor.ottiptv.cc/yy/1354932402
 #EXTINF:-1 tvg-name="来看修牛蹄" group-title="其他·片名",来看修牛蹄
 https://mursor.ottiptv.cc/yy/1382749887
-#EXTINF:-1 tvg-name="百战英雄" group-title="其他·片名",百战英雄
-https://mursor.ottiptv.cc/yy/1354936199
-#EXTINF:-1 tvg-name="儿大不由爹" group-title="其他·片名",儿大不由爹
-https://mursor.ottiptv.cc/yy/1382745106
-#EXTINF:-1 tvg-name="你是我的荣耀" group-title="其他·片名",你是我的荣耀
-https://mursor.ottiptv.cc/yy/1354931488
-#EXTINF:-1 tvg-name="瓦尔多" group-title="其他·片名",瓦尔多
-https://mursor.ottiptv.cc/yy/1354936122
 #EXTINF:-1 tvg-name="雷霆再起" group-title="其他·片名",雷霆再起
 https://mursor.ottiptv.cc/yy/1382736884
-#EXTINF:-1 tvg-name="四平青年喋血曼谷" group-title="其他·片名",四平青年喋血曼谷
-https://mursor.ottiptv.cc/yy/1382749950
-#EXTINF:-1 tvg-name="巨蛛嗜血狂" group-title="其他·片名",巨蛛嗜血狂
-https://mursor.ottiptv.cc/yy/1354930903
-#EXTINF:-1 tvg-name="史前一万年" group-title="其他·片名",史前一万年
-https://mursor.ottiptv.cc/yy/1382736855
-#EXTINF:-1 tvg-name="长夜危机" group-title="其他·片名",长夜危机
-https://mursor.ottiptv.cc/yy/1382736893
+#EXTINF:-1 tvg-name="百战英雄" group-title="其他·片名",百战英雄
+https://mursor.ottiptv.cc/yy/1354936199
+#EXTINF:-1 tvg-name="你是我的荣耀" group-title="其他·片名",你是我的荣耀
+https://mursor.ottiptv.cc/yy/1354931488
+#EXTINF:-1 tvg-name="儿大不由爹" group-title="其他·片名",儿大不由爹
+https://mursor.ottiptv.cc/yy/1382745106
 #EXTINF:-1 tvg-name="泰式欢乐超上头" group-title="其他·片名",泰式欢乐超上头
 https://mursor.ottiptv.cc/yy/1354936217
-#EXTINF:-1 tvg-name="间接伤害" group-title="其他·片名",间接伤害
-https://mursor.ottiptv.cc/yy/1354936128
+#EXTINF:-1 tvg-name="瓦尔多" group-title="其他·片名",瓦尔多
+https://mursor.ottiptv.cc/yy/1354936122
+#EXTINF:-1 tvg-name="四平青年喋血曼谷" group-title="其他·片名",四平青年喋血曼谷
+https://mursor.ottiptv.cc/yy/1382749950
+#EXTINF:-1 tvg-name="史前一万年" group-title="其他·片名",史前一万年
+https://mursor.ottiptv.cc/yy/1382736855
+#EXTINF:-1 tvg-name="巨蛛嗜血狂" group-title="其他·片名",巨蛛嗜血狂
+https://mursor.ottiptv.cc/yy/1354930903
+#EXTINF:-1 tvg-name="长夜危机" group-title="其他·片名",长夜危机
+https://mursor.ottiptv.cc/yy/1382736893
 #EXTINF:-1 tvg-name="我是谁：失忆强者寻真身" group-title="其他·片名",我是谁：失忆强者寻真身
 https://mursor.ottiptv.cc/yy/1382736882
-#EXTINF:-1 tvg-name="亲爱的味道" group-title="其他·片名",亲爱的味道
-https://mursor.ottiptv.cc/yy/1382749953
 #EXTINF:-1 tvg-name="第8号当铺" group-title="其他·片名",第8号当铺
 https://mursor.ottiptv.cc/yy/1382736905
-#EXTINF:-1 tvg-name="苍狼特战突击" group-title="其他·片名",苍狼特战突击
-https://mursor.ottiptv.cc/yy/1382736849
-#EXTINF:-1 tvg-name="一场袭击改写了所有人命运" group-title="其他·片名",一场袭击改写了所有人命运
-https://mursor.ottiptv.cc/yy/1354936238
-#EXTINF:-1 tvg-name="热烈的玫瑰" group-title="其他·片名",热烈的玫瑰
-https://mursor.ottiptv.cc/yy/1382736798
-#EXTINF:-1 tvg-name="热血激辩社里的天才学霸神级对喷" group-title="其他·片名",热血激辩社里的天才学霸神级对喷
-https://mursor.ottiptv.cc/yy/1382745189
-#EXTINF:-1 tvg-name="重启之深渊疑冢" group-title="其他·片名",重启之深渊疑冢
-https://mursor.ottiptv.cc/yy/1382736841
+#EXTINF:-1 tvg-name="亲爱的味道" group-title="其他·片名",亲爱的味道
+https://mursor.ottiptv.cc/yy/1382749953
 #EXTINF:-1 tvg-name="护卫者守护真情" group-title="其他·片名",护卫者守护真情
 https://mursor.ottiptv.cc/yy/1382735627
-#EXTINF:-1 tvg-name="人鱼" group-title="其他·片名",人鱼
-https://mursor.ottiptv.cc/yy/1382745178
+#EXTINF:-1 tvg-name="苍狼特战突击" group-title="其他·片名",苍狼特战突击
+https://mursor.ottiptv.cc/yy/1382736849
+#EXTINF:-1 tvg-name="间接伤害" group-title="其他·片名",间接伤害
+https://mursor.ottiptv.cc/yy/1354936128
+#EXTINF:-1 tvg-name="重启之深渊疑冢" group-title="其他·片名",重启之深渊疑冢
+https://mursor.ottiptv.cc/yy/1382736841
+#EXTINF:-1 tvg-name="热烈的玫瑰" group-title="其他·片名",热烈的玫瑰
+https://mursor.ottiptv.cc/yy/1382736798
+#EXTINF:-1 tvg-name="一场袭击改写了所有人命运" group-title="其他·片名",一场袭击改写了所有人命运
+https://mursor.ottiptv.cc/yy/1354936238
+#EXTINF:-1 tvg-name="热血激辩社里的天才学霸神级对喷" group-title="其他·片名",热血激辩社里的天才学霸神级对喷
+https://mursor.ottiptv.cc/yy/1382745189
 #EXTINF:-1 tvg-name="英雄无语，暗战无声" group-title="其他·片名",英雄无语，暗战无声
 https://mursor.ottiptv.cc/yy/1354932379
+#EXTINF:-1 tvg-name="人鱼" group-title="其他·片名",人鱼
+https://mursor.ottiptv.cc/yy/1382745178
 #EXTINF:-1 tvg-name="快递小哥变身英雄" group-title="其他·片名",快递小哥变身英雄
 https://mursor.ottiptv.cc/yy/1354932405
-#EXTINF:-1 tvg-name="仙剑风云再起" group-title="其他·片名",仙剑风云再起
-https://mursor.ottiptv.cc/yy/1354933556
-#EXTINF:-1 tvg-name="燃眉追击（普通话）" group-title="其他·片名",燃眉追击（普通话）
-https://mursor.ottiptv.cc/yy/1354936136
 #EXTINF:-1 tvg-name="嗜血巨狼突袭人类" group-title="其他·片名",嗜血巨狼突袭人类
 https://mursor.ottiptv.cc/yy/1382735560
+#EXTINF:-1 tvg-name="燃眉追击（普通话）" group-title="其他·片名",燃眉追击（普通话）
+https://mursor.ottiptv.cc/yy/1354936136
+#EXTINF:-1 tvg-name="仙剑风云再起" group-title="其他·片名",仙剑风云再起
+https://mursor.ottiptv.cc/yy/1354933556
 #EXTINF:-1 tvg-name="相亲时代真实到让当代年轻人头皮发麻" group-title="其他·片名",相亲时代真实到让当代年轻人头皮发麻
 https://mursor.ottiptv.cc/yy/1354936231
 #EXTINF:-1 tvg-name="痞子殿下（普通话）" group-title="其他·片名",痞子殿下（普通话）
 https://mursor.ottiptv.cc/yy/1382736869
-#EXTINF:-1 tvg-name="夺面双雄" group-title="其他·片名",夺面双雄
-https://mursor.ottiptv.cc/yy/1354932441
 #EXTINF:-1 tvg-name="新时代农村青年的热血奋斗记" group-title="其他·片名",新时代农村青年的热血奋斗记
 https://mursor.ottiptv.cc/yy/1382736715
+#EXTINF:-1 tvg-name="他的一生竟然如此悲伤" group-title="其他·片名",他的一生竟然如此悲伤
+https://mursor.ottiptv.cc/yy/1354930957
+#EXTINF:-1 tvg-name="夺面双雄" group-title="其他·片名",夺面双雄
+https://mursor.ottiptv.cc/yy/1354932441
 #EXTINF:-1 tvg-name="天师驱魔令" group-title="其他·片名",天师驱魔令
 https://mursor.ottiptv.cc/yy/1354926643
 #EXTINF:-1 tvg-name="离谱！我被自己追杀了" group-title="其他·片名",离谱！我被自己追杀了
 https://mursor.ottiptv.cc/yy/1382745092
-#EXTINF:-1 tvg-name="侏罗纪复活战" group-title="其他·片名",侏罗纪复活战
-https://mursor.ottiptv.cc/yy/1354930945
 #EXTINF:-1 tvg-name="法网难逃！天网狼蛛如何束手就擒" group-title="其他·片名",法网难逃！天网狼蛛如何束手就擒
 https://mursor.ottiptv.cc/yy/1382736817
-#EXTINF:-1 tvg-name="他的一生竟然如此悲伤" group-title="其他·片名",他的一生竟然如此悲伤
-https://mursor.ottiptv.cc/yy/1354930957
-#EXTINF:-1 tvg-name="每天都要快乐哦！" group-title="其他·片名",每天都要快乐哦！
-https://mursor.ottiptv.cc/yy/1354930909
 #EXTINF:-1 tvg-name="千里不留行" group-title="其他·片名",千里不留行
 https://mursor.ottiptv.cc/yy/1382736865
 #EXTINF:-1 tvg-name="铁甲狂猴雷霆" group-title="其他·片名",铁甲狂猴雷霆
 https://mursor.ottiptv.cc/yy/1382735552
+#EXTINF:-1 tvg-name="侏罗纪复活战" group-title="其他·片名",侏罗纪复活战
+https://mursor.ottiptv.cc/yy/1354930945
+#EXTINF:-1 tvg-name="每天都要快乐哦！" group-title="其他·片名",每天都要快乐哦！
+https://mursor.ottiptv.cc/yy/1354930909
 #EXTINF:-1 tvg-name="一起来笑吧" group-title="其他·片名",一起来笑吧
 https://mursor.ottiptv.cc/yy/1454859415
-#EXTINF:-1 tvg-name="空中决战" group-title="其他·片名",空中决战
-https://mursor.ottiptv.cc/yy/1382736880
-#EXTINF:-1 tvg-name="欢喜冤家宜解不宜结" group-title="其他·片名",欢喜冤家宜解不宜结
-https://mursor.ottiptv.cc/yy/1382736853
 #EXTINF:-1 tvg-name="在悬崖边缘狂舞" group-title="其他·片名",在悬崖边缘狂舞
 https://mursor.ottiptv.cc/yy/1382749910
-#EXTINF:-1 tvg-name="村里来了个洋媳妇" group-title="其他·片名",村里来了个洋媳妇
-https://mursor.ottiptv.cc/yy/1354936181
-#EXTINF:-1 tvg-name="这反差萌让猫奴顶不住" group-title="其他·片名",这反差萌让猫奴顶不住
-https://mursor.ottiptv.cc/yy/1354930984
-#EXTINF:-1 tvg-name="了不起的萝莉小玲" group-title="其他·片名",了不起的萝莉小玲
-https://mursor.ottiptv.cc/yy/1382736799
-#EXTINF:-1 tvg-name="窈窕奶爸反差萌翻，硬汉被迫营业" group-title="其他·片名",窈窕奶爸反差萌翻，硬汉被迫营业
-https://mursor.ottiptv.cc/yy/1382735581
+#EXTINF:-1 tvg-name="空中决战" group-title="其他·片名",空中决战
+https://mursor.ottiptv.cc/yy/1382736880
 #EXTINF:-1 tvg-name="看十四天之暖春来如何治愈严冬" group-title="其他·片名",看十四天之暖春来如何治愈严冬
 https://mursor.ottiptv.cc/yy/1354936154
-#EXTINF:-1 tvg-name="沸点" group-title="其他·片名",沸点
-https://mursor.ottiptv.cc/yy/1354926622
+#EXTINF:-1 tvg-name="欢喜冤家宜解不宜结" group-title="其他·片名",欢喜冤家宜解不宜结
+https://mursor.ottiptv.cc/yy/1382736853
+#EXTINF:-1 tvg-name="了不起的萝莉小玲" group-title="其他·片名",了不起的萝莉小玲
+https://mursor.ottiptv.cc/yy/1382736799
+#EXTINF:-1 tvg-name="这反差萌让猫奴顶不住" group-title="其他·片名",这反差萌让猫奴顶不住
+https://mursor.ottiptv.cc/yy/1354930984
+#EXTINF:-1 tvg-name="窈窕奶爸反差萌翻，硬汉被迫营业" group-title="其他·片名",窈窕奶爸反差萌翻，硬汉被迫营业
+https://mursor.ottiptv.cc/yy/1382735581
+#EXTINF:-1 tvg-name="村里来了个洋媳妇" group-title="其他·片名",村里来了个洋媳妇
+https://mursor.ottiptv.cc/yy/1354936181
 #EXTINF:-1 tvg-name="看底层打工人逆袭翻身" group-title="其他·片名",看底层打工人逆袭翻身
 https://mursor.ottiptv.cc/yy/1382745190
 #EXTINF:-1 tvg-name="水怪2黑木林" group-title="其他·片名",水怪2黑木林
 https://mursor.ottiptv.cc/yy/1354936221
+#EXTINF:-1 tvg-name="沸点" group-title="其他·片名",沸点
+https://mursor.ottiptv.cc/yy/1354926622
 #EXTINF:-1 tvg-name="打破第四面墙" group-title="其他·片名",打破第四面墙
 https://mursor.ottiptv.cc/yy/1382745090
-#EXTINF:-1 tvg-name="致命伴旅" group-title="其他·片名",致命伴旅
-https://mursor.ottiptv.cc/yy/1382736852
 #EXTINF:-1 tvg-name="不用加班真开心" group-title="其他·片名",不用加班真开心
 https://mursor.ottiptv.cc/yy/1354930924
+#EXTINF:-1 tvg-name="致命伴旅" group-title="其他·片名",致命伴旅
+https://mursor.ottiptv.cc/yy/1382736852
+#EXTINF:-1 tvg-name="有个精灵闺蜜是种什么神仙体验" group-title="其他·片名",有个精灵闺蜜是种什么神仙体验
+https://mursor.ottiptv.cc/yy/1354889015
 #EXTINF:-1 tvg-name="王牌保镖在此" group-title="其他·片名",王牌保镖在此
 https://mursor.ottiptv.cc/yy/1382749913
 #EXTINF:-1 tvg-name="体验另一种生活！" group-title="其他·片名",体验另一种生活！
 https://mursor.ottiptv.cc/yy/1354936229
-#EXTINF:-1 tvg-name="有个精灵闺蜜是种什么神仙体验" group-title="其他·片名",有个精灵闺蜜是种什么神仙体验
-https://mursor.ottiptv.cc/yy/1354889015
-#EXTINF:-1 tvg-name="皮皮虾总裁也太沙雕了" group-title="其他·片名",皮皮虾总裁也太沙雕了
-https://mursor.ottiptv.cc/yy/1354936210
 #EXTINF:-1 tvg-name="杀机四伏" group-title="其他·片名",杀机四伏
 https://mursor.ottiptv.cc/yy/1354936195
-#EXTINF:-1 tvg-name="特派先锋出击" group-title="其他·片名",特派先锋出击
-https://mursor.ottiptv.cc/yy/1382749940
-#EXTINF:-1 tvg-name="战俘营大逃亡" group-title="其他·片名",战俘营大逃亡
-https://mursor.ottiptv.cc/yy/1354930915
+#EXTINF:-1 tvg-name="皮皮虾总裁也太沙雕了" group-title="其他·片名",皮皮虾总裁也太沙雕了
+https://mursor.ottiptv.cc/yy/1354936210
 #EXTINF:-1 tvg-name="幸运贩卖机" group-title="其他·片名",幸运贩卖机
 https://mursor.ottiptv.cc/yy/1354932407
+#EXTINF:-1 tvg-name="战俘营大逃亡" group-title="其他·片名",战俘营大逃亡
+https://mursor.ottiptv.cc/yy/1354930915
+#EXTINF:-1 tvg-name="特派先锋出击" group-title="其他·片名",特派先锋出击
+https://mursor.ottiptv.cc/yy/1382749940
 #EXTINF:-1 tvg-name="《伟大的长征》精彩花絮" group-title="其他·片名",《伟大的长征》精彩花絮
 https://mursor.ottiptv.cc/yy/1354808044
 #EXTINF:-1 tvg-name="神医喜来乐" group-title="其他·片名",神医喜来乐
