@@ -12,6 +12,13 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/lunbo.m3u",
       "playerType": 1
+    },
+    {
+      "name": "更多 · 地方电影",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ]
 }
