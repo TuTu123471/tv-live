@@ -5,6 +5,12 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/cctv.m3u?v=20261127d",
       "playerType": 1
+    },
+    {
+      "name": "卫视",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/ws.m3u?v=20261127e",
+      "playerType": 1
     }
   ]
 }
