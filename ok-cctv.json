@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "央视 1-17",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/cctv.m3u?v=20261127c",
+      "playerType": 1
+    }
+  ]
+}
