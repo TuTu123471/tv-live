@@ -129,8 +129,6 @@ http://39.135.133.164/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/ind
 http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视
 http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://38.75.136.137:98/gslb/dsdqbv/xjws.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://112.92.129.95:9898/hls/65/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视
