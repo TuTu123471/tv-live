@@ -1,0 +1,160 @@
+{
+ "北京卫视": [
+  "http://112.92.129.95:9898/hls/37/index.m3u8",
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8",
+  "http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8",
+  "http://183.129.255.66:8480/hls/29/index.m3u8"
+ ],
+ "湖南卫视": [
+  "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+  "http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8"
+ ],
+ "浙江卫视": [
+  "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
+  "http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
+  "https://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
+ ],
+ "江苏卫视": [
+  "http://112.92.129.95:9898/hls/38/index.m3u8",
+  "http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
+  "http://183.129.255.66:8480/hls/33/index.m3u8"
+ ],
+ "东方卫视": [
+  "http://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
+  "http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
+  "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8"
+ ],
+ "广东卫视": [
+  "http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8",
+  "http://39.135.133.135/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8",
+  "http://183.129.255.66:8480/hls/31/index.m3u8"
+ ],
+ "深圳卫视": [
+  "http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8",
+  "http://39.135.133.169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8"
+ ],
+ "安徽卫视": [
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8",
+  "http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8",
+  "http://183.129.255.66:8480/hls/28/index.m3u8"
+ ],
+ "山东卫视": [
+  "http://112.92.129.95:9898/hls/41/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8",
+  "http://39.135.133.174/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
+ ],
+ "天津卫视": [
+  "http://112.92.129.95:9898/hls/43/index.m3u8",
+  "http://39.135.133.165/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8",
+  "http://112.46.85.60:8009/hls/44/index.m3u8"
+ ],
+ "重庆卫视": [
+  "http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8",
+  "http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8",
+  "http://112.92.129.95:9898/hls/44/index.m3u8"
+ ],
+ "四川卫视": [
+  "http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8",
+  "http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8",
+  "http://112.92.129.95:9898/hls/47/index.m3u8"
+ ],
+ "湖北卫视": [
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8",
+  "http://39.135.133.169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8",
+  "http://112.92.129.95:9898/hls/40/index.m3u8"
+ ],
+ "河南卫视": [
+  "http://39.135.133.174/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8",
+  "http://39.135.133.164/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8",
+  "http://183.129.255.66:8480/hls/38/index.m3u8"
+ ],
+ "河北卫视": [
+  "http://112.92.129.95:9898/hls/46/index.m3u8",
+  "http://39.135.133.174/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+ ],
+ "辽宁卫视": [
+  "http://112.92.129.95:9898/hls/42/index.m3u8"
+ ],
+ "江西卫视": [
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
+  "http://39.135.133.176/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
+  "http://183.129.255.66:8480/hls/44/index.m3u8"
+ ],
+ "东南卫视": [
+  "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+  "http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+ ],
+ "广西卫视": [
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8"
+ ],
+ "云南卫视": [
+  "http://183.129.255.66:8480/hls/40/index.m3u8",
+  "http://39.135.133.174/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8"
+ ],
+ "贵州卫视": [
+  "http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8",
+  "http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+ ],
+ "陕西卫视": [
+  "http://222.213.105.65:7788/738910838",
+  "http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8"
+ ],
+ "甘肃卫视": [
+  "http://218.13.170.98:9901/tsfile/live/0141_1.m3u8",
+  "http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8"
+ ],
+ "青海卫视": [
+  "http://39.135.133.164/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8",
+  "http://by4.nty.tv189.cn/live/tm-dxqhaiws-4000k.m3u8"
+ ],
+ "新疆卫视": [
+  "http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8"
+ ],
+ "西藏卫视": [
+  "http://112.92.129.95:9898/hls/65/index.m3u8",
+  "http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8"
+ ],
+ "海南卫视": [
+  "http://222.213.105.65:7788/947472502",
+  "http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+ ],
+ "内蒙古卫视": [
+  "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
+  "http://39.135.133.134/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8"
+ ],
+ "山西卫视": [
+  "http://112.92.129.95:9898/hls/45/index.m3u8",
+  "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8",
+  "http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8"
+ ],
+ "吉林卫视": [
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8",
+  "http://39.135.133.133/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8",
+  "http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0"
+ ],
+ "黑龙江卫视": [
+  "https://idclive.hljtv.com:4430/live/hljws_own.m3u8",
+  "http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
+  "http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
+ ],
+ "延边卫视": [
+  "http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8"
+ ],
+ "兵团卫视": [
+  "http://112.92.129.95:9898/hls/77/index.m3u8",
+  "http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8",
+  "http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8"
+ ],
+ "宁夏卫视": [
+  "http://112.92.129.95:9898/hls/68/index.m3u8",
+  "http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8"
+ ]
+}
