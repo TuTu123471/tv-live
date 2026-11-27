@@ -3,14 +3,14 @@
     {
       "name": "精选 · 央视卫视",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/hd2.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/hd2.m3u?v=20261127a",
       "playerType": 1,
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "轮播 · 电影剧集",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/lunbo.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/TuTu123471/tv-live/main/lunbo.m3u?v=20261127a",
       "playerType": 1
     },
     {
