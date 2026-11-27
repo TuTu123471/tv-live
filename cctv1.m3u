@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV1
-http://36.110.54.118:866/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV1
-http://112.92.129.95:9898/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" group-title="央视",CCTV1
-http://39.135.133.170/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
